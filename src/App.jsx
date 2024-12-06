@@ -1,6 +1,6 @@
 export default function App(){
     return (
-        <div className="min-h-screen">
+        <div class="min-h-screen">
             App Template
         </div>
     )
